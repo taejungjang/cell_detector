@@ -1,2 +1,2 @@
 # cell_detector
-![Image Description](.cell.PNG)
+![Image Description](cell.PNG)
